@@ -3,6 +3,7 @@
 
 int main(void) {
     foo();
+    goo();
     printf("main\n");
     return 0;
 }
