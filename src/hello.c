@@ -2,5 +2,5 @@
 #include <stdio.h>
 
 void print_hello() {
-    printf("The World is beautiful!\n");
+    printf("Hello from new feature branch!\n");
 }
